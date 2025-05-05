@@ -1,0 +1,18 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0ff;
+  padding: 2em;
+}
+.container {
+  background: white;
+  border-radius: 8px;
+  padding: 2em;
+  max-width: 600px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
